@@ -1,4 +1,4 @@
-### Hi , I am Olly
+### Hello, I am Olly
 
 I enjoy coding, learning new things, and building projects.
 
