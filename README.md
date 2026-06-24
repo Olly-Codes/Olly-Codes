@@ -27,7 +27,7 @@ Most of what you will find here is me learning and buildings things
     <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
+<p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Olly-Codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olly-Codes&layout=compact&theme=dark&hide_border=true" />
 </p>
