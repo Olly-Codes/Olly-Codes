@@ -6,6 +6,10 @@ I am currently working through the odin project and building things along the wa
 
 Most of what you will find here is me learning and buildings things
 
+<p align="center">
+   <img width="500" height="317" alt="snorlax-sleep" src="https://github.com/user-attachments/assets/bf617a2d-4e95-4195-a1c3-bb520f4e93e1" />
+</p>
+
 <h3 align="left">Core Languages</h3>
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
