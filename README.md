@@ -32,6 +32,6 @@ Most of what you will find here is me learning and buildings things
 </p>
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Olly-Codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olly-Codes&layout=compact&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-one-indol-29.vercel.app/api?username=Olly-Codes&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats-one-indol-29.vercel.app/api/top-langs/?username=Olly-Codes&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
