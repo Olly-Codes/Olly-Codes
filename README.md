@@ -17,6 +17,7 @@ Most of what you will find here is me learning and buildings things
 <h3 align="center">Frontend</h3>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
+   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="40" height="40"/> </a>
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
