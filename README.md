@@ -2,7 +2,7 @@
 
 Full-stack JS dev who enjoys coding, learning new things, and building projects.
 
-I am currently working through the odin project and building things along the way which includes frontend, backend and anything that interests me inbetween.
+Completed the odin project, now I am just working on projects along the way which includes frontend, backend and anything that interests me inbetween.
 
 Most of what you will find here is me learning and buildings things
 
